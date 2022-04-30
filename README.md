@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Corbin Ulloa</h1>
-<h3 align="center">I'm an Aspiring Data Scientist with a strong analytical background, and 3+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions.</h3>
+<h1 align="center">Hola 👋, I'm Corbin Ulloa</h1>
+<h3 align="center">I'm an Aspiring Data Scientist 📈 with a strong analytical background, and 3+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 🌱 I’m currently learning **SQL & Machine Learning**
