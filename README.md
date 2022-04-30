@@ -1,7 +1,7 @@
-[![MasterHead](https://gist.github.com/fzn0x/03809a76fdb58b39f65a84f33e6d60d2/raw/7337014370cd2b3f2a3880ab704bbb9788841073/4cd6eaa599851725aa5a195d162fb20d.gif)](https://cdulloa.io)
+
 <h1 align="center">Hi 👋, I'm Corbin Ulloa</h1>
 <h3 align="center">I'm an Aspiring Data Scientist with a strong analytical background, and 4+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://i1.wp.com/wallpapercave.com/wp/wp6630058.gif">
+<img align="right" alt="Coding" width="400" src="https://gist.github.com/fzn0x/03809a76fdb58b39f65a84f33e6d60d2/raw/7337014370cd2b3f2a3880ab704bbb9788841073/4cd6eaa599851725aa5a195d162fb20d.gif">
 
 - 🌱 I’m currently learning **SQL & Machine Learning**
 
