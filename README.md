@@ -19,6 +19,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdulloa&show_icons=true&locale=en&layout=compact" alt="cdulloa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cdulloa&show_icons=true&locale=en" alt="cdulloa" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdulloa&theme=radical)
+
+ <p align="center">
+  <a href="https://bit.ly/p-arg"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></a>
+  <br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cdulloa&" alt="cdulloa" /></p>
