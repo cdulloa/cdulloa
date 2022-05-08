@@ -25,4 +25,4 @@
   <a href="https://bit.ly/p-arg"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="100px"></a>
   <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cdulloa&" alt="cdulloa" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdulloa&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&ring=FF34AA)](https://git.io/streak-stats)
