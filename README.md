@@ -7,7 +7,7 @@
 - :octocat: I’m interested in Data Science/Analysis, ML and Software Development.
 - :neckbeard: I’m looking to collaborate on ML projects.
 - 📫 Connect with me: **https://www.linkedin.com/in/corbin-ulloa/**   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdulloa&show_icons=true&locale=en&layout=compact" alt="cdulloa" width="300" height="450"/>
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdulloa&show_icons=true&locale=en&layout=compact" alt="cdulloa" width="300" height="450"/>
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/corbin-ulloa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/corbin-ulloa/" height="30" width="40" /></a>
