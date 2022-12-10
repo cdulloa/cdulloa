@@ -1,11 +1,12 @@
 
-<h1 align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="40" />Hola , I'm Corbin Ulloa</h1>
+<h1 align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="40" /> Hola , I'm Corbin Ulloa</h1>
 <!--<h3 align="center">I'm an Aspiring Data Scientist 📈 with a strong analytical background, and 3+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions.</h3> -->
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> -->
 
-- 🌱 I’m currently learning **SQL & Machine Learning**
-- 📫 Connect with me: **corbinulloa619@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/corbin-ulloa/overlay/1635489129432/single-media-viewer/](https://www.linkedin.com/in/corbin-ulloa/overlay/1635489129432/single-media-viewer/)
+- 🌱 I’m currently an undergraduate student at California State University, San Bernardino
+- :octocat: I’m interested in Data Science/Analysis, ML and Software Development.
+- :neckbeard: I’m looking to collaborate on ML projects.
+- 📫 Connect with me: **https://www.linkedin.com/in/corbin-ulloa/**   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdulloa&show_icons=true&locale=en&layout=compact" alt="cdulloa" width="300" height="450"/>
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
